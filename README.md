@@ -1,5 +1,7 @@
 # Projetflutter
 
+La configuration pour IOS n'a pas été faite sur Firebase car nous n'avons pas de Mac et donc Xcode pour pouvoir le faire.
+
 Rappel à paramétrer pour faire tourner l'application: 
 ```
 compileSdkVersion 33
